@@ -1,0 +1,1 @@
+v=randn(1,10)+i*rands(1,10);  %crearea unui vector cu nr complexe aleatoare
